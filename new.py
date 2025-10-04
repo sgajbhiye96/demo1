@@ -18,3 +18,7 @@ def even(n):
 # git status
 # git commit -m "Version -1"    
 # git log
+# git log --oneline
+# git diff
+# git show commitid
+# git push -u origin main

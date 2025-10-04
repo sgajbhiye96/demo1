@@ -1,0 +1,1 @@
+print("New file added in second_project directory")
